@@ -73,20 +73,17 @@ npm start
 ##  UI Preview
 
 
-### Monthly View
-![img1](assets/img1.png)
-
 
 
 
 ### Quarterly View
-![img_1](assets/img1.png)
+![img_1](assets/img_1.png)
 
 
 ###  monthly view 
 
-![img_3](assets/img3.png)
-![img_2](assets/img2.png)
+![img_3](assets/img_3.png)
+![img_2](assets/img_2.png)
 
 
 
