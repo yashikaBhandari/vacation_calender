@@ -13,9 +13,9 @@ A **fully interactive vacation calendar** web application that allows users to v
 - <h2> <b>Holiday marker (*) on dates with holidays   </b></h2>
 - Click on a date to see **holiday details** below the calendar  
 - Select **country**, **year**, and **month**  
-- <h2><b>Mixed approach for fetching holidays: </b></h2>
-  - Hardcoded holidays for India
-  - API-based holidays for other countries  
+- 
+  
+  - data stored on separate json file  )(no hardcoding)
 
 ---
 
