@@ -71,6 +71,31 @@ npm start
 - Click on a holiday date to see holiday details below the calendar.
 
 ##  UI Preview
-Monthly View	Quarterly View
 
+
+### Monthly View
+![img1](assets/img1.png)
+
+
+
+
+## Future Enhancements
+
+- Fetch holidays dynamically for India from an external API (instead of hardcoded)
+
+- Add user authentication to save custom holidays
+
+- Add event creation feature
+
+- Make calendar fully responsive and mobile-friendly
+
+
+### Quarterly View
+![img1](assets/img1.png)
+
+
+###  monthly view 
+
+![img3](assets/img3.png)
+![img2](assets/img2.png)
 	
