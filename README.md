@@ -80,13 +80,13 @@ npm start
 
 
 ### Quarterly View
-![img1](assets/img1.png)
+![img_1](assets/img1.png)
 
 
 ###  monthly view 
 
-![img3](assets/img3.png)
-![img2](assets/img2.png)
+![img_3](assets/img3.png)
+![img_2](assets/img2.png)
 
 
 
