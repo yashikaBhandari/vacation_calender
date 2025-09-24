@@ -11,25 +11,52 @@
         { "date": "2025-01-26", "localName": "Republic Day", "name": "Republic Day" },
         { "date": "2025-08-15", "localName": "Independence Day", "name": "Independence Day" },
         { "date": "2025-10-02", "localName": "Gandhi Jayanti", "name": "Gandhi Jayanti" },
-        { "date": "2025-11-01", "localName": "Diwali (example)", "name": "Diwali" }
+        { "date": "2025-11-01", "localName": "Diwali", "name": "Diwali" },
+        { "date": "2025-01-01", "localName": "New Year's Day", "name": "New Year's Day" },
+        { "date": "2025-03-14", "localName": "Holi", "name": "Holi" },
+        { "date": "2025-04-06", "localName": "Ram Navami", "name": "Ram Navami" },
+        { "date": "2025-05-01", "localName": "Labour Day", "name": "Labour Day" },
+        { "date": "2025-05-12", "localName": "Buddha Purnima", "name": "Buddha Purnima" },
+        { "date": "2025-07-06", "localName": "Muharram", "name": "Muharram" },
+        { "date": "2025-08-16", "localName": "Janmashtami", "name": "Janmashtami" },
+        { "date": "2025-12-25", "localName": "Christmas", "name": "Christmas" }
       ],
       "US": [
         { "date": "2025-01-01", "localName": "New Year's Day", "name": "New Year's Day" },
         { "date": "2025-07-04", "localName": "Independence Day", "name": "Independence Day" },
-        { "date": "2025-12-25", "localName": "Christmas Day", "name": "Christmas Day" }
+        { "date": "2025-12-25", "localName": "Christmas Day", "name": "Christmas Day" },
+        { "date": "2025-01-20", "localName": "Martin Luther King Jr. Day", "name": "MLK Day" },
+        { "date": "2025-02-17", "localName": "Presidents' Day", "name": "Presidents' Day" },
+        { "date": "2025-11-27", "localName": "Thanksgiving", "name": "Thanksgiving Day" },
+        { "date": "2025-05-26", "localName": "Memorial Day", "name": "Memorial Day" },
+        { "date": "2025-09-01", "localName": "Labor Day", "name": "Labor Day" }
       ],
       "GB": [
         { "date": "2025-01-01", "localName": "New Year's Day", "name": "New Year's Day" },
         { "date": "2025-12-25", "localName": "Christmas Day", "name": "Christmas Day" },
-        { "date": "2025-12-26", "localName": "Boxing Day", "name": "Boxing Day" }
+        { "date": "2025-12-26", "localName": "Boxing Day", "name": "Boxing Day" },
+        { "date": "2025-04-18", "localName": "Good Friday", "name": "Good Friday" },
+        { "date": "2025-04-21", "localName": "Easter Monday", "name": "Easter Monday" },
+        { "date": "2025-05-05", "localName": "Early May Bank Holiday", "name": "Early May Bank Holiday" },
+        { "date": "2025-05-26", "localName": "Spring Bank Holiday", "name": "Spring Bank Holiday" },
+        { "date": "2025-08-25", "localName": "Summer Bank Holiday", "name": "Summer Bank Holiday" }
       ],
       "AU": [
+        { "date": "2025-01-01", "localName": "New Year's Day", "name": "New Year's Day" },
         { "date": "2025-01-26", "localName": "Australia Day", "name": "Australia Day" },
-        { "date": "2025-04-25", "localName": "ANZAC Day", "name": "ANZAC Day" }
+        { "date": "2025-04-25", "localName": "ANZAC Day", "name": "ANZAC Day" },
+        { "date": "2025-12-25", "localName": "Christmas Day", "name": "Christmas Day" },
+        { "date": "2025-12-26", "localName": "Boxing Day", "name": "Boxing Day" },
+        { "date": "2025-06-09", "localName": "Queen's Birthday", "name": "Queen's Birthday" }
       ],
       "CA": [
+        { "date": "2025-01-01", "localName": "New Year's Day", "name": "New Year's Day" },
         { "date": "2025-07-01", "localName": "Canada Day", "name": "Canada Day" },
-        { "date": "2025-12-25", "localName": "Christmas Day", "name": "Christmas Day" }
+        { "date": "2025-12-25", "localName": "Christmas Day", "name": "Christmas Day" },
+        { "date": "2025-12-26", "localName": "Boxing Day", "name": "Boxing Day" },
+        { "date": "2025-09-01", "localName": "Labor Day", "name": "Labor Day" },
+        { "date": "2025-10-13", "localName": "Thanksgiving", "name": "Thanksgiving" }
       ]
     }
   }
+  
