@@ -1,0 +1,35 @@
+{
+    "countries": [
+      { "countryCode": "IN", "name": "India" },
+      { "countryCode": "US", "name": "United States" },
+      { "countryCode": "GB", "name": "United Kingdom" },
+      { "countryCode": "AU", "name": "Australia" },
+      { "countryCode": "CA", "name": "Canada" }
+    ],
+    "holidays": {
+      "IN": [
+        { "date": "2025-01-26", "localName": "Republic Day", "name": "Republic Day" },
+        { "date": "2025-08-15", "localName": "Independence Day", "name": "Independence Day" },
+        { "date": "2025-10-02", "localName": "Gandhi Jayanti", "name": "Gandhi Jayanti" },
+        { "date": "2025-11-01", "localName": "Diwali (example)", "name": "Diwali" }
+      ],
+      "US": [
+        { "date": "2025-01-01", "localName": "New Year's Day", "name": "New Year's Day" },
+        { "date": "2025-07-04", "localName": "Independence Day", "name": "Independence Day" },
+        { "date": "2025-12-25", "localName": "Christmas Day", "name": "Christmas Day" }
+      ],
+      "GB": [
+        { "date": "2025-01-01", "localName": "New Year's Day", "name": "New Year's Day" },
+        { "date": "2025-12-25", "localName": "Christmas Day", "name": "Christmas Day" },
+        { "date": "2025-12-26", "localName": "Boxing Day", "name": "Boxing Day" }
+      ],
+      "AU": [
+        { "date": "2025-01-26", "localName": "Australia Day", "name": "Australia Day" },
+        { "date": "2025-04-25", "localName": "ANZAC Day", "name": "ANZAC Day" }
+      ],
+      "CA": [
+        { "date": "2025-07-01", "localName": "Canada Day", "name": "Canada Day" },
+        { "date": "2025-12-25", "localName": "Christmas Day", "name": "Christmas Day" }
+      ]
+    }
+  }
